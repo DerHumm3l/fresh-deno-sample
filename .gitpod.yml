@@ -1,1 +1,2 @@
-image: denoland/deno
+image:
+  file: .gitpod.dockerfile 
